@@ -8,7 +8,7 @@
 
 Abaixo, dois prints da interface original e reestilizada.
 
-![Imagem 1](Screenshot_2.jpg)
+![Imagem 1](NewCalculator/Screenshot_2.jpg)
 
-![Imagem 1](Screenshot_3.jpg)
+![Imagem 1](NewCalculator/Screenshot_3.jpg)
 
